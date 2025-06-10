@@ -17,7 +17,7 @@
 
 ---
 
-##🧑‍💻 Usage
+## 🧑‍💻 Usage
 
 ### 1. **Export your KeePass database as XML**
 
@@ -53,10 +53,6 @@ If your XML file has a different name or location, modify the `xml_file` variabl
 No additional dependencies are required — only Python’s built-in libraries (`xml`, `csv`, `collections`).
 
 ---
-
-
 ## ✍️ Author
 
 * **0xrogg** — Cybersecurity enthusiast and red teamer in training 🐙
-
-```
