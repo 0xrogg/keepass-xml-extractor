@@ -1,10 +1,4 @@
-# keepass-xml-extractor
-Voici un `README.md` complet pour ton dépôt **`keepass-xml-extractor`** :
-
----
-
-````markdown
-# KeePass XML Extractor
+ KeePass XML Extractor
 
 **KeePass XML Extractor** is a simple Python script to parse KeePass database exports (in XML format) and extract credentials (titles, usernames, passwords, and URLs). It also saves the extracted data to a CSV file for easier analysis or reuse.
 
@@ -23,7 +17,7 @@ Voici un `README.md` complet pour ton dépôt **`keepass-xml-extractor`** :
 
 ---
 
-## 🧑‍💻 Usage
+##🧑‍💻 Usage
 
 ### 1. **Export your KeePass database as XML**
 
@@ -65,9 +59,4 @@ No additional dependencies are required — only Python’s built-in libraries (
 
 * **0xrogg** — Cybersecurity enthusiast and red teamer in training 🐙
 
-```
-
----
-
-Souhaite-tu aussi un fichier `LICENSE` prêt à l’emploi, ou un script bash pour l’installation rapide ? Je peux générer un [LICENSE MIT](f), un [script install](f), ou un [exemple XML](f).
 ```
